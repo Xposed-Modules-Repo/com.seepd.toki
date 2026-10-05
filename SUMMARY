@@ -1,1 +1,1 @@
-面向 TikTok 46.4.3 实现并完成测试的 libxposed API 102 功能增强模块，其他版本不在支持范围内，提供内容过滤、下载增强、地区与环境伪装、评论翻译、页面净化与 Material 3 设置界面。
+Toki has moved to io.github.meiyongai.toki. 新版已迁移至 io.github.meiyongai.toki；请先停用旧模块，再安装并启用新版。https://github.com/Xposed-Modules-Repo/io.github.meiyongai.toki

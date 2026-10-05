@@ -1,3 +1,15 @@
+> **Toki has moved / Toki 已迁移**
+>
+> This repository contains the previous `com.seepd.toki` package. Current releases
+> use `io.github.meiyongai.toki`: [download the current module](https://github.com/Xposed-Modules-Repo/io.github.meiyongai.toki/releases/latest).
+> [Source and support](https://github.com/MeiYongAI/Toki).
+> Disable this module in LSPosed before enabling the new one. Settings are not migrated automatically.
+>
+> 本仓库对应旧包名 `com.seepd.toki`。新版包名为 `io.github.meiyongai.toki`，
+> 请前往[新模块仓库](https://github.com/Xposed-Modules-Repo/io.github.meiyongai.toki)下载，
+> 在 LSPosed 中先停用旧模块再启用新版。配置不会自动迁移，卸载前请保留需要的设置。
+> 以下内容仅对应旧包名版本。
+
 # Toki
 
 [English](#toki) | [中文](#中文) | [Changelog](CHANGELOG.md) | [更新日志](CHANGELOG.md#中文) | [Telegram](https://t.me/toki_lsposed)
